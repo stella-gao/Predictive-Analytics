@@ -12,9 +12,13 @@
 * To compute the distance between two observations in the feature space, we often use the Euclidean distance, which is the length of a straight line between two points.
 * KNN
 ```R
-> iris_features <- iris[1:4]
-> dist_eucl <- function(x1, x2) sqrt(sum((x1 - x2) ^ 2))
-> distances <- apply(iris_features, 1,
-function(x) dist_eucl(x, new_sample))
-> distances_sorted <- sort(distances, index.return = T)
+    > iris_features <- iris[1:4]
+    > dist_eucl <- function(x1, x2) sqrt(sum((x1 - x2) ^ 2))
+    > distances <- apply(iris_features, 1,
+    function(x) dist_eucl(x, new_sample))
+    > distances_sorted <- sort(distances, index.return = T)
+    > str(distances_sorted)
+    List of 2
+    $ x : num [1:150] 0.574 0.9 0.9 0.949 0.954 ...
+    $ ix: int [1:150] 60 65 107 90 58 89 85 94 95 99 ...
 ```
