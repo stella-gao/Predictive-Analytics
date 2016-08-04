@@ -35,4 +35,32 @@
 <img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/6.png" width="500">
 
 
-*
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/7.png" width="500">
+
+
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/8.png" width="500">
+
+
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/9.png" width="500">
+
+
+* 常见二维随机向量的分布
+  1. 二维均匀分布
+  2. 二维正态分布
+
+* 偏度系数 (coefficient of skewness): 刻画分布函数的对称性; 峰度系数(kurtosis): 刻画不同类型的分布的集中和分散程度
+* 矩，协方差矩阵，相关矩阵
+* 大数定律
+  1. Bernoulli 大数定律
+  2. Chebychev 大数定律
+  3. Khintchin 大数定律
+* 中心极限定理：判断随机变量序列部分和的分布是否渐近于正态分布的一类定理
+  1. 独立同分布的中心极限定理
+  2. 棣莫佛-拉普拉斯 De Moivre – Laplace 中心极限定理
+* 联合概率分布函数
+* 常用分布和分位数
+  1. chi-square distribution 
+  2. t distribution
+  3. F distribution
+
+
