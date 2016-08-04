@@ -9,3 +9,12 @@
   2. Some data that are representative of a system or process that we are trying to model
   3. A concept that describes the model's goodness of fit
   4. A method to update the parameters to improve the model's goodness of fit
+* To compute the distance between two observations in the feature space, we often use the Euclidean distance, which is the length of a straight line between two points.
+* KNN
+```R
+> iris_features <- iris[1:4]
+> dist_eucl <- function(x1, x2) sqrt(sum((x1 - x2) ^ 2))
+> distances <- apply(iris_features, 1,
+function(x) dist_eucl(x, new_sample))
+> distances_sorted <- sort(distances, index.return = T)
+```
