@@ -20,3 +20,19 @@
 <img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/3.png" width="500">
 
 
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/4.png" width="500">
+
+
+* 常见的连续型分布
+  1. 均匀分布
+  2. 指数分布
+  3. 正态分布 0.683, 0.954, 0.997
+
+
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/5.png" width="500">
+
+
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/6.png" width="500">
+
+
+*
