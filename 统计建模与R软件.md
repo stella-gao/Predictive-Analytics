@@ -6,7 +6,7 @@
  
 
 <img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/1.png" width="500">
-
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/1.png" width="300">
 
 * 
 
