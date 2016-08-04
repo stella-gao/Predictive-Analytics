@@ -4,5 +4,7 @@
 * 乘法公式(multiplication formula)、全概率公式(formula of total probability)、贝叶斯公式(Bayes formula)
 * 伯努利试验(Bernoulli trial): 二项分布
 <img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/1.png" width="500">
+
+
 * 
 
