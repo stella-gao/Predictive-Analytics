@@ -62,5 +62,12 @@
   1. chi-square distribution 
   2. t distribution
   3. F distribution
-
+* R 语言基础
+```R
+> X1 <- c(35, 40, 40, 42, 37, 45, 43, 37, 44, 42, 41, 39)
+> mean(X1)
+[1] 40.41667
+> sd(X1)
+[1] 3.028901
+```
 
