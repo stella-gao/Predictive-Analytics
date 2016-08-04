@@ -10,5 +10,13 @@
 
 <img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/2.png" width="300">
 
-* 
+
+* 常见的离散型分布：
+  1. 两点分布（0-1分布）
+  2. 伯努利试验 （二项分布）
+  3. Poisson分布
+
+
+<img src="https://github.com/stella-gao/Predictive-Analytics/blob/master/screenshot/3.png" width="500">
+
 
