@@ -42,3 +42,4 @@ We would label our new sample as belonging to the versicolor species. Notice tha
   3. Collecting the data: We can anticipate that certain characteristics of our problem will require more data. The greater the number of output classes we have, the more data we will need to collect.
   3. 
 
+46/414
