@@ -80,5 +80,37 @@
    lm.sol<-lm(Weight~Height, data=rt) # 线性回归
    summary(lm.sol)
 ```
+```R
+   rm(list=ls(all=TRUE)) # 删除所有目标对象
+   search() # 列出查找路径
+```
+```R
+   > x <- c(10, 6, 4, 7, 8)
+   > min(x)
+   [1] 4
+   > which.min(x) # 在第几个分类取得最小值
+   [1] 3
+   > sum(x)
+   [1] 35
+   > prod(x) # 乘积
+   [1] 13440
+   > length(x)
+   [1] 5
+   > median(x)
+   [1] 7
+   > mean(x)
+   [1] 7
+   > var(x)
+   [1] 5
+   > sd(x)
+   [1] 2.236068
+   > sort(x)
+   [1]  4  6  7  8 10
+   > order(x)
+   [1] 3 2 4 5 1
+   > sort.list(x)
+   [1] 3 2 4 5 1
+```
+
 
 
