@@ -7,3 +7,16 @@
         Application.OnTime Now + TimeValue(“01:01:00”), “GetNewData”
         End Sub
 ```
+The full statement instructs VBA to run the procedure named GetNewData , 61 minutes after the OnTime method is invoked.
+```vba
+        Sub GetNewData()
+        Dim NextRow As Integer, NextRank As Long
+        Dim UnitsLeft As Integer, NextLeft As Integer
+        Application.ScreenUpdating = False
+        Application.Calculation = xlCalculationManual
+        RefreshSheets “Stats”
+        RefreshSheets “BAXL Kindle”
+        NextRow = ThisWorkbook.Sheets(“Summary”).Cells(Rows.Count, 1).End(xlUp).Row
+```
+* If you’re using an Excel worksheet directly, one of the ways to move around is with Ctrl + arrow , where arrow means up or down arrow, right or left arrow.
+* 
